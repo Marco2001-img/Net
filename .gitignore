@@ -1,0 +1,38 @@
+# Directorios de compilación
+bin/
+obj/
+
+# Archivos de configuración del entorno
+*.user
+*.rsuser
+*.suo
+
+# Archivos de publicación
+*.publish/
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+packages.lock.json
+
+# Archivos locales
+*.local
+
+# Archivos temporales
+*~
+*.tmp
+
+# Configuración de Visual Studio/VS Code
+.vscode/
+.vs/
+
+# Archivos de entorno
+.env
+
+# Archivos de análisis de código
+*.codecoverage
+*.dotCover
+
+# Archivos de caché y de respaldo
+*.swp
+*.sln.cache
